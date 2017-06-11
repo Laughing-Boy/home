@@ -6,10 +6,9 @@ categories: ["science"]
 author: "Jyothir Aditya"
 ---
 For bloging text is enough.
-
 You can check out my gihub rapo @[github][github]
 
-<img src="https://cloud.githubusercontent.com/assets/13018570/26547162/473e8118-448b-11e7-8ba5-ae2dd9f50458.png"/>
+<img src="https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/11846509_872336302851519_3885540184172225488_n.jpg"/>
 
 For codes you can follow this snippet.
 {% highlight python %}
