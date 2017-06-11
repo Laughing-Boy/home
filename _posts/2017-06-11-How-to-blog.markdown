@@ -2,7 +2,7 @@
 layout: post
 title:  "Learning How to add new posts"
 date:   2016-03-30 19:45:31 +0530
-categories: ["learning","science"]
+categories: ["science"]
 author: "Jyothir Aditya"
 ---
 For bloging text is enough.
